@@ -30,9 +30,8 @@
 .content h3 h2{
     font-size: 30px;
     margin-top: 10px;
-    color: #b9b4c7;
+    color: #5c5470;
 }
-
 
 .content p{
     margin: 20px auto;
@@ -93,6 +92,6 @@ button:hover span{
 
 button:hover{
     border: none;
-    color: #392f44;
+    color: #352f44;
     background-color: #5c5470;
 }

@@ -3,7 +3,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 import pickle
 import catboost
 
-app = Flask(__name__)
+app = Flask(__name__, '/static')
 
 model = pickle.load(open('models/mylatestmodel.pkl', 'rb'))
 vectorizer = pickle.load(open('models/vectorizer.pkl', 'rb'))
