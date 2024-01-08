@@ -1,6 +1,6 @@
-FROM python:3-alpine3.17
+FROM python:3.11-slim
 WORKDIR /app
 COPY . /app
-RUN pip install -r requirements
+RUN pip install -r requirements.txt
 EXPOSE 3000
 CMD python ./app.py
