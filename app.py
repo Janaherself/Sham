@@ -1,5 +1,5 @@
 from flask import Flask, request, render_template
-#from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.feature_extraction.text import TfidfVectorizer
 import pickle
 import catboost
 
