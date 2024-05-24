@@ -13,7 +13,7 @@ Sham is a tool that aims to detect whether an email is spam or not, simply by te
 ### Tecnologies used in Sham:
 
 <p align="center">
-  <img height="35px" src="/logos/python.png" title="Python"> 
+  <img height="35px" src="/logos/python.jpg" title="Python"> 
   <br>
   Certainly, Python is the #1 language to be used in simple & complicated AI apps. <br><br>
   <img height="35px" src="/logos/jupyter.png" title="Jupyter">
